@@ -1,0 +1,25 @@
+{
+  "name": "onlineshopping",
+  "version": "1.0.0",
+  "description": "an online shopping website for custom merch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArbiKhan007/onlineshopping.git"
+  },
+  "keywords": [
+    "online",
+    "shopping",
+    "merch",
+    "ok"
+  ],
+  "author": "pokenom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArbiKhan007/onlineshopping/issues"
+  },
+  "homepage": "https://github.com/ArbiKhan007/onlineshopping#readme"
+}
