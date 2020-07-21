@@ -1,0 +1,38 @@
+.storenavbar{
+    font-size: 1rem;
+    font-weight: 500;
+
+    &__logo{
+        position: absolute;
+        left: 0;
+        width: 200px;
+    }
+
+    &__list{
+       ul{
+           list-style-type: none;
+           li{
+               float: left;
+               a{
+                   display: block;
+                   padding: 15px;
+
+                   span{
+                       margin-left: 5px;
+                   }
+               }
+           }
+       }
+
+       &--left{
+           position: absolute;
+           left: 200px;
+       }
+
+       &--right{
+           position: absolute;
+           right: 100px;
+       }
+
+    }
+}

@@ -1,0 +1,18 @@
+body{
+	font-family: 'Roboto',sans-serif;
+	color: #373737;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+a{
+	color: $mainLink;
+	text-decoration: none;
+}
